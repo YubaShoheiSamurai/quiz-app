@@ -31,3 +31,7 @@ quiz-app/
 - 変数・関数名はキャメルケース（例: `quizScore`, `loadQuestion()`）
 - CSSクラス名はケバブケース（例: `quiz-container`, `btn-next`）
 - `var` は使用しない（`const` / `let` を使用）
+
+## GitHubリポジトリ
+
+https://github.com/YubaShoheiSamurai/quiz-app
